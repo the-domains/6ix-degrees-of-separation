@@ -1,0 +1,28 @@
+name: 6IX DEGREES OF SEPARATION
+favicon: null
+layout_spectrum: 0.16363298683427274
+typography_spectrum: 0.1956723362673074
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.8570698073599488
+  lightness: 0.7674517047125846
+  saturation: 0.19333499087952077
+  rhythmicContrast: 0.9304435246158391
+purpose: []
