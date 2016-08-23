@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-23T02:59:30.394Z'
+datePublished: '2016-08-23T03:02:49.241Z'
 sourcePath: >-
   _posts/2016-08-23-its-important-what-we-put-into-our-brains-as-audio-input-i.md
 inFeed: true
@@ -8,7 +8,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-23T02:59:18.834Z'
+dateModified: '2016-08-23T03:02:48.473Z'
 title: ''
 publisher: {}
 description: 'Unknown radio host - March 24, 2099'
