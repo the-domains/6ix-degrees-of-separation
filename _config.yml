@@ -1,5 +1,5 @@
-layout_spectrum: 0.89889344596304
-typography_spectrum: 0.045166597003117204
+layout_spectrum: 0.6694164138752967
+typography_spectrum: 0.6829553805291653
 color:
   brandColors:
     - '#FFFFFF'
@@ -7,10 +7,10 @@ color:
     - '#999999'
     - '#4D4D4D'
     - '#333333'
-  brandStrength: 0.0723305931314826
-  lightness: 0.12937993998639286
-  saturation: 0.7281864369288087
-  rhythmicContrast: 0.11975157749839127
+  brandStrength: 0.5839711888693273
+  lightness: 0.056368461111560464
+  saturation: 0.43904576427303255
+  rhythmicContrast: 0.9272211682982743
 name: 6IX DEGREES OF SEPARATION
 favicon: null
 title: 6IX DEGREES
