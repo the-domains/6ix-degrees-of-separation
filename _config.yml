@@ -1,4 +1,3 @@
-layout_spectrum: 0.6694164138752967
 typography_spectrum: 0.14439671277068555
 color:
   brandColors:
@@ -11,19 +10,21 @@ color:
   lightness: 0.056368461111560464
   saturation: 0.43904576427303255
   rhythmicContrast: 0.9272211682982743
-name: 6IX DEGREES OF SEPARATION
-favicon: null
-title: 6IX DEGREES
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.6694164138752967
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: 6IX DEGREES OF SEPARATION
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: 6IX DEGREES
+description: Story
 purpose: []
